@@ -1,0 +1,5 @@
+# Optional dependencies for examples/smartsim_openfoam_reference.py
+smartsim
+smartredis
+jinja2
+

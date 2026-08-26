@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this method, please cite the STIC-INR paper."
+title: "STIC-INR"
+type: software
+version: 0.1.0
+date-released: 2026-08-25
+authors:
+  - name: "STIC-INR authors"
+license: MIT
